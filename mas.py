@@ -182,4 +182,8 @@
 # malumot['yosh']=16                                                           
 # print(malumot['yosh'])
 
+# for i in s:
+#     print(i)
+
+
 
